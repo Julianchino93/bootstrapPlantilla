@@ -47,6 +47,9 @@ nav{
 #portfolio{
     padding-top: 60px;
 }
+#portfolio img{
+    border-radius: 20px;
+}
 #portfolio .division-linea ,#contacto .division-linea ,#portfolioModal1 .division-linea
 ,#portfolioModal2 .division-linea
 ,#portfolioModal3 .division-linea
@@ -75,7 +78,10 @@ nav{
 }
 #formacion .icono{
     font-size: 120px;
-
+}
+#formacion img{
+    border: none;
+    border-radius: 16px;
 }
 #contacto{
     padding: 40px;

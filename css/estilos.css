@@ -45,7 +45,10 @@ nav{
     font-size: 40px;
 }
 #portfolio{
-    padding-top: 60px;
+    padding-top: 90px;
+}
+#portfolio h2{
+    padding-top: 20px;
 }
 #portfolio img{
     border-radius: 20px;
@@ -71,7 +74,7 @@ nav{
 }
 #formacion{
     background-color: #097579;
-    padding: 40px;
+    padding-top:  90px;
 }
 #formacion h2{
     margin-top: 30px;
@@ -84,7 +87,7 @@ nav{
     border-radius: 16px;
 }
 #contacto{
-    padding: 40px;
+    padding-top:  90px;
 }
 .btn-contacto{
   background-color: #1abc9c;
@@ -98,6 +101,7 @@ footer{
     background-color: black;
     color: white;
     padding: 40px;
+    margin-top: 20px;
 }
 footer i{
     border-radius: 50px;

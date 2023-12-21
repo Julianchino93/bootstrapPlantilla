@@ -80,6 +80,14 @@ nav{
 #contacto{
     padding: 40px;
 }
+.btn-contacto{
+  background-color: #1abc9c;
+  border: none;
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+
+}
 footer{
     background-color: black;
     color: white;
